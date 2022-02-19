@@ -6,3 +6,4 @@ Day | Article
 --- | ---
 **1** |  [BigQuery SQL Injection Cheat Sheet](/days/day1.md)
 
+Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
