@@ -8,5 +8,6 @@ Day | Article
 **2** |  [How I made $10K in bug bounties from GitHub secret leaks](/days/day2.md)
 **3** |  [How I could take over any Account on a USA Department of Defense Website due to a simple IDOR](/days/day3.md)
 **4** |  [My first bounty, IDOR + Self XSS [€3000]](/days/day4.md)
+**5** |  [Fuzzing + IDOR = Admin TakeOver](/days/day5.md)
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
