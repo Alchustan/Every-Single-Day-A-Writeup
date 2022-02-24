@@ -9,5 +9,6 @@ Day | Article | Category
 **3** |  [How I could take over any Account on a USA Department of Defense Website due to a simple IDOR](/days/day3.md) | IDOR
 **4** |  [My first bounty, IDOR + Self XSS [€3000]](/days/day4.md) | IDOR
 **5** |  [Fuzzing + IDOR = Admin TakeOver](/days/day5.md) | IDOR
+**6** |  [Accidental IDOR in eLearnSecurity to Knowing Your Address and Cert You Bought](/days/day6.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
