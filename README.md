@@ -13,5 +13,6 @@ Day | Article | Category
 **7** |  [How I got $500 with Open redirect](/days/day7.md) | Open Redirect
 **8** |  [Finding Gem in Someone’s Report: Instant $500USD at HackerOne Platform](/days/day8.md) | Information disclosure
 **9** |  [All about Multi-factor Authentication security Bypass](/days/day9.md) | Authentication Bypass
+**10** |  [How I was able to find multiple vulnerabilities of a Symfony Web Framework web application](/days/day10.md) | Sensitive Data Exposure
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
