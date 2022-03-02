@@ -11,9 +11,10 @@ Day | Article | Category
 **5** |  [Fuzzing + IDOR = Admin TakeOver](/days/day5.md) | IDOR
 **6** |  [Accidental IDOR in eLearnSecurity to Knowing Your Address and Cert You Bought](/days/day6.md) | IDOR
 **7** |  [How I got $500 with Open redirect](/days/day7.md) | Open Redirect
-**8** |  [Finding Gem in Someone’s Report: Instant $500USD at HackerOne Platform](/days/day8.md) | Information disclosure
+**8** |  [Finding Gem in Someone’s Report: Instant $500USD at HackerOne Platform](/days/day8.md) | Information Disclosure
 **9** |  [All about Multi-factor Authentication security Bypass](/days/day9.md) | Authentication Bypass
 **10** |  [How I was able to find multiple vulnerabilities of a Symfony Web Framework web application](/days/day10.md) | Sensitive Data Exposure
 **11** |  [SQL injection in harvard subdomain](/days/day11.md) | SQL Injection
+**12** |  [[BugBounty] Sleeping stored Google XSS Awakens a $5000 Bounty](/days/day12.md) | Cross-site Scripting
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
