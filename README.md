@@ -16,5 +16,6 @@ Day | Article | Category
 **10** |  [How I was able to find multiple vulnerabilities of a Symfony Web Framework web application](/days/day10.md) | Sensitive Data Exposure
 **11** |  [SQL injection in harvard subdomain](/days/day11.md) | SQL Injection
 **12** |  [[BugBounty] Sleeping stored Google XSS Awakens a $5000 Bounty](/days/day12.md) | Cross-site Scripting
+**13** |  [Just Gopher It: Escalating a Blind SSRF to RCE for $15k — Yahoo Mail](/days/day13.md) | SSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
