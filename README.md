@@ -19,5 +19,6 @@ Day | Article | Category
 **13** |  [Just Gopher It: Escalating a Blind SSRF to RCE for $15k — Yahoo Mail](/days/day13.md) | SSRF
 **14** |  [4300$ Instagram IDOR Bug (2022)](/days/day14.md) | IDOR
 **15** |  [A 7500$ Google sites IDOR](/days/day15.md) | IDOR
+**16** |  [Blind XSS in Google Analytics Admin Panel — $3133.70](/days/day16.md) | Cross-site Scripting
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
