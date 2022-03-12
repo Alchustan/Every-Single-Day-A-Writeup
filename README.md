@@ -23,5 +23,6 @@ Day | Article | Category
 **17** |  [Some critical vulnerabilities found with passive analysis on bug bounty programs explained](/days/day17.md) | Information Disclosure
 **18** |  [Finding bugs on Chess.com](/days/day18.md) | Security Misconfiguration
 **19** |  [Disclosing privately shared gaming clips of any user](/days/day19.md) | IDOR
+**20** |  [[ Directory Traversal attack ] How did I find it using GitHub](/days/day20.md) | Directory Traversal
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
