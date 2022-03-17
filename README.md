@@ -25,5 +25,6 @@ Day | Article | Category
 **19** |  [Disclosing privately shared gaming clips of any user](/days/day19.md) | IDOR
 **20** |  [[ Directory Traversal attack ] How did I find it using GitHub](/days/day20.md) | Directory Traversal
 **21** |  [[WRITE-UP] Facebook page admin disclosure by "Create doc" button (Bounty: 5000 USD)](/days/day21.md) | Information Disclosure
+**22** |  [How Did I Leak 5.2k Customer Data From a Large Company?](/days/day22.md) | Broken Access Control
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
