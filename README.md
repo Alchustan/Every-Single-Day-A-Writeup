@@ -26,5 +26,6 @@ Day | Article | Category
 **20** |  [[ Directory Traversal attack ] How did I find it using GitHub](/days/day20.md) | Directory Traversal
 **21** |  [[WRITE-UP] Facebook page admin disclosure by "Create doc" button (Bounty: 5000 USD)](/days/day21.md) | Information Disclosure
 **22** |  [How Did I Leak 5.2k Customer Data From a Large Company?](/days/day22.md) | Broken Access Control
+**23** |  [One company: 262 bugs, 100% acceptance, 2.57 priority, millions of user details saved.](/days/day23.md) | Mixed
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
