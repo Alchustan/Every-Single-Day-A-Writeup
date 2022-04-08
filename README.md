@@ -28,5 +28,6 @@ Day | Article | Category
 **22** |  [How Did I Leak 5.2k Customer Data From a Large Company?](/days/day22.md) | Broken Access Control
 **23** |  [One company: 262 bugs, 100% acceptance, 2.57 priority, millions of user details saved.](/days/day23.md) | Mixed
 **24** |  [Critical SSRF on Evernote](/days/day24.md) | SSRF
+**25** |  [Exploiting a double-edged SSRF for server and client-side impact](/days/day25.md) | SSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
