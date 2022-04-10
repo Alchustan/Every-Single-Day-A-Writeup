@@ -29,5 +29,6 @@ Day | Article | Category
 **23** |  [One company: 262 bugs, 100% acceptance, 2.57 priority, millions of user details saved.](/days/day23.md) | Mixed
 **24** |  [Critical SSRF on Evernote](/days/day24.md) | SSRF
 **25** |  [Exploiting a double-edged SSRF for server and client-side impact](/days/day25.md) | SSRF
+**26** |  [How a YouTube Video lead to pwning a web application via SQL Injection worth $4324 bounty](/days/day26.md) | SQL Injection
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
