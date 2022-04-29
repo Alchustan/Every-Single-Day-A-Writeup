@@ -34,5 +34,6 @@ Day | Article | Category
 **28** |  [$8,000 Bug Bounty Highlight: XSS to RCE in the Opera Browser](/days/day28.md) | Cross-site Scripting
 **29** |  [Bypass Apple Corp SSO on Apple Admin Panel](/days/day29.md) | IDOR
 **30** |  [A Less Known Attack Vector, Second Order IDOR Attacks](/days/day30.md) | IDOR
+**31** |  [Mass Assignment Exploitation In The Wild](/days/day31.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
