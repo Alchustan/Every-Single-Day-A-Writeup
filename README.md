@@ -36,5 +36,6 @@ Day | Article | Category
 **30** |  [A Less Known Attack Vector, Second Order IDOR Attacks](/days/day30.md) | IDOR
 **31** |  [Mass Assignment Exploitation In The Wild](/days/day31.md) | IDOR
 **32** |  [How I was able to bypass Open Redirection Protection](/days/day32.md) | Open Redirect
+**33** |  [Open-redirect to Account Takeover](/days/day33.md) | Open Redirect
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
