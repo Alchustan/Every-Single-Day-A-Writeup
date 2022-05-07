@@ -37,5 +37,6 @@ Day | Article | Category
 **31** |  [Mass Assignment Exploitation In The Wild](/days/day31.md) | IDOR
 **32** |  [How I was able to bypass Open Redirection Protection](/days/day32.md) | Open Redirect
 **33** |  [Open-redirect to Account Takeover](/days/day33.md) | Open Redirect
+**34** |  [How I hacked worldwide Tiktok users](/days/day34.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
