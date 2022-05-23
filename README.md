@@ -42,5 +42,6 @@ Day | Article | Category
 **36** |  [Multiple bugs chained to takeover Facebook Accounts which uses Gmail](/days/day36.md) | Cross-site Scripting
 **37** |  [The easiest bug bounties I have ever won](/days/day37.md) | IDOR
 **38** |  [The bug that allowed me to take over any student's or teacher's account](/days/day38.md) | Cross-site Scripting
+**39** |  [Accidental Observation to Critical IDOR](/days/day39.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
