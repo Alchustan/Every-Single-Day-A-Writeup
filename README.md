@@ -44,5 +44,6 @@ Day | Article | Category
 **38** |  [The bug that allowed me to take over any student's or teacher's account](/days/day38.md) | Cross-site Scripting
 **39** |  [Accidental Observation to Critical IDOR](/days/day39.md) | IDOR
 **40** |  [How I found an IDOR issue in 5 mins](/days/day40.md) | IDOR
+**41** |  [How an Open Redirection Leads to an Account Takeover](/days/day40.md) | Open Redirect
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
