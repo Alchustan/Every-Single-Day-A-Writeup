@@ -9,4 +9,4 @@ ___
 
 #### Write-up: 
 
-* https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1
+* https://infosecwriteups.com/how-i-found-a-idor-issue-in-5-mins-2c6a2805c08c
