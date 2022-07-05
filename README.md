@@ -46,5 +46,6 @@ Day | Article | Category
 **40** |  [How I found an IDOR issue in 5 mins](/days/day40.md) | IDOR
 **41** |  [How an Open Redirection Leads to an Account Takeover](/days/day41.md) | Open Redirect
 **42** |  [How I found a Critical Bug in Instagram and Got 49500$ Bounty From Facebook](/days/day42.md) | IDOR
+**43** |  [A little open redirect bypass story](/days/day43.md) | Open Redirect
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
