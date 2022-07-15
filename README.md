@@ -48,5 +48,6 @@ Day | Article | Category
 **42** |  [How I found a Critical Bug in Instagram and Got 49500$ Bounty From Facebook](/days/day42.md) | IDOR
 **43** |  [A little open redirect bypass story](/days/day43.md) | Open Redirect
 **44** |  [SQL injection for $50 bounty, but still worth reading](/days/day44.md) | SQL Injection
+**45** |  [SQL Injection in Forget Password Function](/days/day45.md) | SQL Injection
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
