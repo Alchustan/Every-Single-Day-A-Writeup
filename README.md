@@ -51,5 +51,6 @@ Day | Article | Category
 **45** |  [SQL Injection in Forget Password Function](/days/day45.md) | SQL Injection
 **46** |  [Exploiting SQL Injection at Authorization token](/days/day46.md) | SQL Injection
 **47** |  [Abusing URL Shortners for fun and profit](/days/day47.md) | IDOR
+**48** |  [An interesting idor that allowed me to See all projects](/days/day48.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
