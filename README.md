@@ -53,5 +53,6 @@ Day | Article | Category
 **47** |  [Abusing URL Shortners for fun and profit](/days/day47.md) | IDOR
 **48** |  [An interesting idor that allowed me to See all projects](/days/day48.md) | IDOR
 **49** |  [A swag for a Open Redirect — Google Dork — Bug Bounty](/days/day49.md) | Open Redirect
+**50** |  [I mean, IDOR is NOT only about others ID](/days/day50.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
