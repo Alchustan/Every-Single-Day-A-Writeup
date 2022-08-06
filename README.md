@@ -55,6 +55,6 @@ Day | Article | Category
 **49** |  [A swag for a Open Redirect — Google Dork — Bug Bounty](/days/day49.md) | Open Redirect
 **50** |  [I mean, IDOR is NOT only about others ID](/days/day50.md) | IDOR
 **51** |  [PII Disclosure of Apple Users ($10k)](/days/day51.md) | IDOR
-**52** |  [Another day, Another IDOR vulnerability— $5000 Reddit Bug Bounty)](/days/day52.md) | IDOR
+**52** |  [Another day, Another IDOR vulnerability— $5000 Reddit Bug Bounty](/days/day52.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
