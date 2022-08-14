@@ -58,5 +58,6 @@ Day | Article | Category
 **52** |  [Another day, Another IDOR vulnerability— $5000 Reddit Bug Bounty](/days/day52.md) | IDOR
 **53** |  [Google Cloud Shell - Command Injection](/days/day53.md) | OS Injection
 **54** |  [How I earned a $6000 bug bounty from Cloudflare](/days/day54.md) | LFI
+**55** |  [Digging JS files to find BUGs](/days/day55.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
