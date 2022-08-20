@@ -61,5 +61,6 @@ Day | Article | Category
 **55** |  [Digging JS files to find BUGs](/days/day55.md) | IDOR
 **56** |  [Elasticsearch A Easy Win For Bug Bounty Hunters](/days/day56.md) | Information Disclosure
 **57** |  [Story of a really cool SSRF bug](/days/day57.md) | SSRF
+**58** |  [6k$ Worth Account Takeover via IDOR in Starbucks Singapore](/days/day58.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
