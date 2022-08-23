@@ -63,5 +63,6 @@ Day | Article | Category
 **57** |  [Story of a really cool SSRF bug](/days/day57.md) | SSRF
 **58** |  [6k$ Worth Account Takeover via IDOR in Starbucks Singapore](/days/day58.md) | IDOR
 **59** |  [API based IDOR to leaking Private IP address of 6000 businesses](/days/day59.md) | IDOR
+**60** |  [How an Open Redirection Leads to an Account Takeover?](/days/day60.md) | Open Redirect
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
