@@ -66,5 +66,6 @@ Day | Article | Category
 **60** |  [How an Open Redirection Leads to an Account Takeover?](/days/day60.md) | Open Redirect
 **61** |  [Break the Logic: Insecure Parameters (€300)](/days/day61.md) | Business Logic
 **62** |  [Break the Logic: 5 Different Perspectives in Single Page (€1500)](/days/day62.md) | Broken Access Control
+**63** |  [Hacking 6.5+ million websites => CVE-2022-29455](/days/day63.md) | Cross-site Scripting
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
