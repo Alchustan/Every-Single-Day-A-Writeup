@@ -67,5 +67,6 @@ Day | Article | Category
 **61** |  [Break the Logic: Insecure Parameters (€300)](/days/day61.md) | Business Logic
 **62** |  [Break the Logic: 5 Different Perspectives in Single Page (€1500)](/days/day62.md) | Broken Access Control
 **63** |  [Hacking 6.5+ million websites => CVE-2022-29455](/days/day63.md) | Cross-site Scripting
+**64** |  [How I found my first RCE!](/days/day64.md) | Remote Code Execution
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
