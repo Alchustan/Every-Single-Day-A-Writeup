@@ -69,5 +69,6 @@ Day | Article | Category
 **63** |  [Hacking 6.5+ million websites => CVE-2022-29455](/days/day63.md) | Cross-site Scripting
 **64** |  [How I found my first RCE!](/days/day64.md) | Remote Code Execution
 **65** |  [Unsubscribe any user’s e-mail notifications via IDOR](/days/day65.md) | IDOR
+**66** |  [Reading Message from Microsoft’s Private Yammer Group](/days/day66.md) | Broken Access Control
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
