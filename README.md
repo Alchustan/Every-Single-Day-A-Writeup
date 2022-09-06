@@ -71,5 +71,6 @@ Day | Article | Category
 **65** |  [Unsubscribe any user’s e-mail notifications via IDOR](/days/day65.md) | IDOR
 **66** |  [Reading Message from Microsoft’s Private Yammer Group](/days/day66.md) | Broken Access Control
 **67** |  [IDOR at Login function leads to leak user’s PII data](/days/day67.md) | IDOR
+**68** |  [How I was able to see other users Payments in a travel application” — IDOR #800$](/days/day68.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
