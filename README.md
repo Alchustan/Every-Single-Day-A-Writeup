@@ -73,5 +73,6 @@ Day | Article | Category
 **67** |  [IDOR at Login function leads to leak user’s PII data](/days/day67.md) | IDOR
 **68** |  [How I was able to see other users Payments in a travel application” — IDOR #800$](/days/day68.md) | IDOR
 **69** |  [How I found my first SSRF to RCE!](/days/day69.md) | SSRF
+**70** |  [A business Logic issue worth $1500](/days/day70.md) | Business Logic
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
