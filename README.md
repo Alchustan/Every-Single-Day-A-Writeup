@@ -75,5 +75,6 @@ Day | Article | Category
 **69** |  [How I found my first SSRF to RCE!](/days/day69.md) | SSRF
 **70** |  [A business Logic issue worth $1500](/days/day70.md) | Business Logic
 **71** |  [An Out Of Scope domain Leads To a Critical Bug[$1500]](/days/day71.md) | Broken Access Control
+**72** |  [Hacking Facebook Pages](/days/day72.md) | Broken Access Control
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
