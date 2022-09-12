@@ -76,5 +76,6 @@ Day | Article | Category
 **70** |  [A business Logic issue worth $1500](/days/day70.md) | Business Logic
 **71** |  [An Out Of Scope domain Leads To a Critical Bug[$1500]](/days/day71.md) | Broken Access Control
 **72** |  [Hacking Facebook Pages](/days/day72.md) | Broken Access Control
+**73** |  [Bug bounty write-up: From SSRF to $4000](/days/day73.md) | SSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
