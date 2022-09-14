@@ -78,5 +78,6 @@ Day | Article | Category
 **72** |  [Hacking Facebook Pages](/days/day72.md) | Broken Access Control
 **73** |  [Bug bounty write-up: From SSRF to $4000](/days/day73.md) | SSRF
 **74** |  [IDOR In JWT and The Shortest Token You Will Ever See](/days/day74.md) | IDOR
+**75** |  [$1800 Bounty -IDOR in Ticket Support Chat on Cryptocurrency Web](/days/day75.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
