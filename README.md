@@ -79,5 +79,6 @@ Day | Article | Category
 **73** |  [Bug bounty write-up: From SSRF to $4000](/days/day73.md) | SSRF
 **74** |  [IDOR In JWT and The Shortest Token You Will Ever See](/days/day74.md) | IDOR
 **75** |  [$1800 Bounty -IDOR in Ticket Support Chat on Cryptocurrency Web](/days/day75.md) | IDOR
+**76** |  [HUNT for SQL Injection- The Smart Way!](/days/day76.md) | SQL Injection
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
