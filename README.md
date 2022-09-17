@@ -81,5 +81,6 @@ Day | Article | Category
 **75** |  [$1800 Bounty -IDOR in Ticket Support Chat on Cryptocurrency Web](/days/day75.md) | IDOR
 **76** |  [HUNT for SQL Injection- The Smart Way!](/days/day76.md) | SQL Injection
 **77** |  [1st Bounty Story Rewarded 300$ (IDOR)](/days/day77.md) | IDOR
+**78** |  [Disclose Private Dashboard Chart's name and data in Facebook Analytics](/days/day78.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
