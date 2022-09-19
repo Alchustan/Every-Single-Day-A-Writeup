@@ -83,5 +83,6 @@ Day | Article | Category
 **77** |  [1st Bounty Story Rewarded 300$ (IDOR)](/days/day77.md) | IDOR
 **78** |  [Disclose Private Dashboard Chart's name and data in Facebook Analytics](/days/day78.md) | IDOR
 **79** |  [Watch out the links : Account takeover](/days/day79.md) | Security Misconfiguration
+**80** |  [Access control worth $2000](/days/day80.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
