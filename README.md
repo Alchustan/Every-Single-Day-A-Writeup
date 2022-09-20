@@ -84,5 +84,6 @@ Day | Article | Category
 **78** |  [Disclose Private Dashboard Chart's name and data in Facebook Analytics](/days/day78.md) | IDOR
 **79** |  [Watch out the links : Account takeover](/days/day79.md) | Security Misconfiguration
 **80** |  [Access control worth $2000](/days/day80.md) | IDOR
+**81** |  [Open redirect using theme install](/days/day81.md) | Open Redirect
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
