@@ -85,5 +85,6 @@ Day | Article | Category
 **79** |  [Watch out the links : Account takeover](/days/day79.md) | Security Misconfiguration
 **80** |  [Access control worth $2000](/days/day80.md) | IDOR
 **81** |  [Open redirect using theme install](/days/day81.md) | Open Redirect
+**82** |  [How I found a critical P1 bug in one of Google’s products with google](/days/day82.md) | SSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
