@@ -86,5 +86,6 @@ Day | Article | Category
 **80** |  [Access control worth $2000](/days/day80.md) | IDOR
 **81** |  [Open redirect using theme install](/days/day81.md) | Open Redirect
 **82** |  [How I found an SSRF ( Reconnaissance )](/days/day82.md) | SSRF
+**83** |  [How I Found Multiple SQL Injections in 5 Minutes in Bug Bounty](/days/day83.md) | SQL Injection
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
