@@ -93,5 +93,6 @@ Day | Article | Category
 **87** |  [How I abused the file upload function to get a high severity vulnerability in Bug Bounty](/days/day87.md) | Information Disclosure
 **88** |  [IDOR “Insecure direct object references”, my first P1 in Bugbounty](/days/day88.md) | IDOR
 **89** |  [How I found an IDOR Worth $1500](/days/day89.md) | IDOR
+**90** |  [7,500$ – IDOR on Apple](/days/day90.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
