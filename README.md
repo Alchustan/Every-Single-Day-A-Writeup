@@ -94,5 +94,7 @@ Day | Article | Category
 **88** |  [IDOR “Insecure direct object references”, my first P1 in Bugbounty](/days/day88.md) | IDOR
 **89** |  [How I found an IDOR Worth $1500](/days/day89.md) | IDOR
 **90** |  [7,500$ – IDOR on Apple](/days/day90.md) | IDOR
+**91** |  [First Bug in Bugcrowd Using Github Dork](/days/day91.md) | Information Disclosure
+**92** |  [IDOR in GraphQL Query Leaking Private Photos of a Million $ App](/days/day92.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
