@@ -96,5 +96,6 @@ Day | Article | Category
 **90** |  [7,500$ – IDOR on Apple](/days/day90.md) | IDOR
 **91** |  [First Bug in Bugcrowd Using Github Dork](/days/day91.md) | Information Disclosure
 **92** |  [IDOR in GraphQL Query Leaking Private Photos of a Million $ App](/days/day92.md) | IDOR
+**93** |  [Exploits Explained: 5 Unusual Authentication Bypass Techniques](/days/day93.md) | Authentication Bypass
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
