@@ -98,5 +98,6 @@ Day | Article | Category
 **92** |  [IDOR in GraphQL Query Leaking Private Photos of a Million $ App](/days/day92.md) | IDOR
 **93** |  [Exploits Explained: 5 Unusual Authentication Bypass Techniques](/days/day93.md) | Authentication Bypass
 **94** |  [Microsoft bug bounty writeup](/days/day94.md) | Information Disclosure
+**95** |  [Google VRP — [Insecure Direct Object Reference] $3133.70](/days/day95.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
