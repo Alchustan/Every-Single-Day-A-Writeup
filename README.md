@@ -100,5 +100,6 @@ Day | Article | Category
 **94** |  [Microsoft bug bounty writeup](/days/day94.md) | Information Disclosure
 **95** |  [Google VRP — [Insecure Direct Object Reference] $3133.70](/days/day95.md) | IDOR
 **96** |  [HOW A SLOW INTERNET, GOT ME 50$](/days/day96.md) | Race Condition
+**97** |  [A $500+ Open Redirect Bounty in Under 10 Minutes](/days/day97.md) | Open Redirect
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
