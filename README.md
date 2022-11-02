@@ -103,5 +103,6 @@ Day | Article | Category
 **97** |  [A $500+ Open Redirect Bounty in Under 10 Minutes](/days/day97.md) | Open Redirect
 **98** |  [$1,000+ P1: PII Disclosure W/ IDOR](/days/day98.md) | IDOR
 **99** |  [Weird Vulnerabilities Happening on Load Balancers, Shallow Copies and Caches](/days/day99.md) | Security Misconfiguration
+**100** |  [Duplicate on CSRF → Account Takeover](/days/day100.md) | CSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
