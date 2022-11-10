@@ -108,5 +108,6 @@ Day | Article | Category
 **102** |  [Get Blind XSS within 5 Minutes — $100](/days/day102.md) | Cross-site Scripting
 **103** |  [Blind account takeover](/days/day103.md) | Account Takeover
 **104** |  [IDOR on Unsubscribe emails to $200 bounty.](/days/day104.md) | IDOR
+**105** |  [The Bug That Allowed Me To Take Over Any Student's or Teacher's Account.](/days/day105.md) | Cross-site Scripting
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
