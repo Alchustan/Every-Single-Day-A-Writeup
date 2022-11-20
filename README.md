@@ -113,5 +113,6 @@ Day | Article | Category
 **107** |  [Chaining Path Traversal with SSRF to disclose internal git repo data in a Bank Asset](/days/day107.md) | SSRF
 **108** |  [From LFI to RCE!!](/days/day108.md) | LFI
 **109** |  [MY FIRST ACCOUNT TAKEOVER](/days/day109.md) | Account Takeover
+**110** |  [Second Order XXE Exploitation](/days/day110.md) | XXE
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
