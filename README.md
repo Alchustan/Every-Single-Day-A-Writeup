@@ -116,5 +116,6 @@ Day | Article | Category
 **110** |  [Second Order XXE Exploitation](/days/day110.md) | XXE
 **111** |  [$250 for Email account enumeration using “NameToMail” tool](/days/day111.md) | Broken Access Control
 **112** |  [CSRF leads to account takeover in Yahoo!](/days/day112.md) | CSRF
+**113** |  [SSRF leads to access AWS metadata](/days/day113.md) | SSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
