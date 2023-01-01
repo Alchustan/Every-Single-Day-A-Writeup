@@ -118,5 +118,6 @@ Day | Article | Category
 **112** |  [CSRF leads to account takeover in Yahoo!](/days/day112.md) | CSRF
 **113** |  [SSRF leads to access AWS metadata](/days/day113.md) | SSRF
 **114** |  [IDOR allows updating user profiles, leading to full account takeover. Part 02](/days/day114.md) | IDOR
+**115** |  [How these IDOR vulnerability earned 5000$](/days/day115.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
