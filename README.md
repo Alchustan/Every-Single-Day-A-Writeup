@@ -122,5 +122,6 @@ Day | Article | Category
 **116** |  [My First Bug In Bugcrowd Platform](/days/day116.md) | Race Condition
 **117** |  [PII data exfiltration within minutes](/days/day117.md) | Information Disclosure
 **118** |  [IDOR and API-keys🔑Token Hardcode Exposed](/days/day118.md) | IDOR
+**119** |  [How I found my first RCE? A simple one…](/days/day119.md) | File Upload
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
