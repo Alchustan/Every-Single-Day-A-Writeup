@@ -124,5 +124,6 @@ Day | Article | Category
 **118** |  [IDOR and API-keys🔑Token Hardcode Exposed](/days/day118.md) | IDOR
 **119** |  [How I found my first RCE? A simple one…](/days/day119.md) | File Upload
 **120** |  [Directory Traversal Vulnerability in Huawei HG255s Products](/days/day120.md) | Directory Traversal
+**121** |  [$500 in 5 minutes](/days/day121.md) | Improper Access Control
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
