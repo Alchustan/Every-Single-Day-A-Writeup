@@ -125,5 +125,6 @@ Day | Article | Category
 **119** |  [How I found my first RCE? A simple one…](/days/day119.md) | File Upload
 **120** |  [Directory Traversal Vulnerability in Huawei HG255s Products](/days/day120.md) | Directory Traversal
 **121** |  [$500 in 5 minutes](/days/day121.md) | Improper Access Control
+**122** |  [RCE on admin panel of web3 website](/days/day122.md) | Remote Code Execution
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
