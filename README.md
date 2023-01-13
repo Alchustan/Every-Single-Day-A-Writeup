@@ -126,5 +126,6 @@ Day | Article | Category
 **120** |  [Directory Traversal Vulnerability in Huawei HG255s Products](/days/day120.md) | Directory Traversal
 **121** |  [$500 in 5 minutes](/days/day121.md) | Improper Access Control
 **122** |  [RCE on admin panel of web3 website](/days/day122.md) | Remote Code Execution
+**123** |  [Doing it the researcher’s way: How I Managed to Get SSTI which lead to arbitrary file reading on One of the Leading Payment Systems in Asia](/days/day123.md) | SSTI
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
