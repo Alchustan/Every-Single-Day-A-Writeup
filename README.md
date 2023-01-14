@@ -127,5 +127,6 @@ Day | Article | Category
 **121** |  [$500 in 5 minutes](/days/day121.md) | Improper Access Control
 **122** |  [RCE on admin panel of web3 website](/days/day122.md) | Remote Code Execution
 **123** |  [Doing it the researcher’s way: How I Managed to Get SSTI which lead to arbitrary file reading on One of the Leading Payment Systems in Asia](/days/day123.md) | SSTI
+**124** |  [My report on how the admin panel took over and I got X](/days/day124.md) | Cross-site Scripting
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
