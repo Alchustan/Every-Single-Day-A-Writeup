@@ -129,5 +129,6 @@ Day | Article | Category
 **123** |  [Doing it the researcher’s way: How I Managed to Get SSTI which lead to arbitrary file reading on One of the Leading Payment Systems in Asia](/days/day123.md) | SSTI
 **124** |  [My report on how the admin panel took over and I got X](/days/day124.md) | Cross-site Scripting
 **125** |  [Interesting Privilege Escalation In an Old Private Program](/days/day125.md) | Broken Access Control
+**126** |  [How a Simple CSRF Attack Turned into a P1 Level Bug](/days/day126.md) | CSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
