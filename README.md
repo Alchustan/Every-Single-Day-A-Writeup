@@ -131,5 +131,6 @@ Day | Article | Category
 **125** |  [Interesting Privilege Escalation In an Old Private Program](/days/day125.md) | Broken Access Control
 **126** |  [How a Simple CSRF Attack Turned into a P1 Level Bug](/days/day126.md) | CSRF
 **127** |  [How I Could Compromise 4% (Locked) Instagram Accounts](/days/day127.md) | IDOR
+**128** |  [Bug Bounty Reflected XSS Exploitation Tips for beginners](/days/day128.md) | XSS
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
