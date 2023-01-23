@@ -132,7 +132,7 @@ Day | Article | Category
 **126** |  [How a Simple CSRF Attack Turned into a P1 Level Bug](/days/day126.md) | CSRF
 **127** |  [How I Could Compromise 4% (Locked) Instagram Accounts](/days/day127.md) | IDOR
 **128** |  [Bug Bounty Reflected XSS Exploitation Tips for beginners](/days/day128.md) | XSS
-**129** |  [How do I approach exploiting access control bugs?](/days/day129.md) | Information Disclosure
+**129** |  [How I Pwned 10 Admin Panels and got rewarded 8000$+](/days/day129.md) | Information Disclosure
 **130** |  [My First Bug Bounty Reward : $100 in 5 min](/days/day130.md) | Information Disclosure
 **131** |  [The easiest way I used to bypass an admin panel](/days/day131.md) | Broken Access Control
 
