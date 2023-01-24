@@ -135,5 +135,6 @@ Day | Article | Category
 **129** |  [How I Pwned 10 Admin Panels and got rewarded 8000$+](/days/day129.md) | Information Disclosure
 **130** |  [My First Bug Bounty Reward : $100 in 5 min](/days/day130.md) | Information Disclosure
 **131** |  [The easiest way I used to bypass an admin panel](/days/day131.md) | Broken Access Control
+**132** |  [How I found XSS on Admin Page without login!](/days/day132.md) | Cross-site Scripting
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
