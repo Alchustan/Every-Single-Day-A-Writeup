@@ -136,5 +136,6 @@ Day | Article | Category
 **130** |  [My First Bug Bounty Reward : $100 in 5 min](/days/day130.md) | Information Disclosure
 **131** |  [The easiest way I used to bypass an admin panel](/days/day131.md) | Broken Access Control
 **132** |  [How I found XSS on Admin Page without login!](/days/day132.md) | Cross-site Scripting
+**133** |  [My very first bug: a dreaded dupe and then an IDOR jackpot!](/days/day133.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
