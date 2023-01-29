@@ -138,5 +138,6 @@ Day | Article | Category
 **132** |  [How I found XSS on Admin Page without login!](/days/day132.md) | Cross-site Scripting
 **133** |  [My very first bug: a dreaded dupe and then an IDOR jackpot!](/days/day133.md) | IDOR
 **134** |  [Add description to Instagram Posts on behalf of other users - 6500$](/days/day134.md) | IDOR
+**135** |  [How I was able to compromise user account via HTTP Parameter Pollution](/days/day135.md) | HTTP Parameter Pollution
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
