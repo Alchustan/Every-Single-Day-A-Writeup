@@ -140,5 +140,6 @@ Day | Article | Category
 **134** |  [Add description to Instagram Posts on behalf of other users - 6500$](/days/day134.md) | IDOR
 **135** |  [How I was able to compromise user account via HTTP Parameter Pollution](/days/day135.md) | HTTP Parameter Pollution
 **136** |  [The 100+ Million Person Data Disclosure](/days/day136.md) | IDOR
+**137** |  [IDOR leading to Privilege Escalation](/days/day137.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
