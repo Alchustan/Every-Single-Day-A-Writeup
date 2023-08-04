@@ -143,5 +143,6 @@ Day | Article | Category
 **137** |  [IDOR leading to Privilege Escalation](/days/day137.md) | IDOR
 **138** |  [Full Account Take Over by very simple trick](/days/day138.md) | Broken Access Control
 **139** |  [XSS in Host Header](/days/day139.md) | Cross-site Scripting
+**140** |  [How I Earned My First Bounty by Securing my Favorite Cyber Security YouTuber’s Website](/days/day140.md) | Information Disclosure
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
