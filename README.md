@@ -145,5 +145,6 @@ Day | Article | Category
 **139** |  [XSS in Host Header](/days/day139.md) | Cross-site Scripting
 **140** |  [How I Earned My First Bounty by Securing my Favorite Cyber Security YouTuber’s Website](/days/day140.md) | Information Disclosure
 **141** |  [How a single quote (‘) may potentially destruct one of a biggest public transportation business](/days/day141.md) | SQL Injection
+**142** |  [IDOR To Delete Hall Of Fame Page](/days/day142.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
