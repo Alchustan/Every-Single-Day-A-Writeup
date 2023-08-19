@@ -148,5 +148,6 @@ Day | Article | Category
 **142** |  [IDOR To Delete Hall Of Fame Page](/days/day142.md) | IDOR
 **143** |  [SQL Injection in The HTTP Custom Header](/days/day143.md) | SQL Injection
 **144** |  [Unveiling a Bug: Paying $1 and Receiving $100 (or Any Amount) in Return](/days/day144.md) | Business Logic Vulnerability
+**145** |  [Account Take Over Vulnerability in Google acquisition](/days/day145.md) | CSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
