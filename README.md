@@ -150,5 +150,6 @@ Day | Article | Category
 **144** |  [Unveiling a Bug: Paying $1 and Receiving $100 (or Any Amount) in Return](/days/day144.md) | Business Logic Vulnerability
 **145** |  [Account Take Over Vulnerability in Google acquisition](/days/day145.md) | CSRF
 **146** |  [An IDOR lead joins any group makes me $2,500](/days/day146.md) | IDOR
+**147** |  [My first Bounty Worth $$$$](/days/day147.md) | CSRF
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
