@@ -152,5 +152,6 @@ Day | Article | Category
 **146** |  [An IDOR lead joins any group makes me $2,500](/days/day146.md) | IDOR
 **147** |  [My first Bounty Worth $$$$](/days/day147.md) | CSRF
 **148** |  [[TR] Bulduğum Price Manipulation of Products zafiyeti](/days/day148.md) | Business Logic Vulnerability
+**149** |  [IDOR ON EVERYWHERE](/days/day149.md) | IDOR
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
