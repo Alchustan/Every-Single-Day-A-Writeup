@@ -153,5 +153,6 @@ Day | Article | Category
 **147** |  [My first Bounty Worth $$$$](/days/day147.md) | CSRF
 **148** |  [[TR] Bulduğum Price Manipulation of Products zafiyeti](/days/day148.md) | Business Logic Vulnerability
 **149** |  [IDOR ON EVERYWHERE](/days/day149.md) | IDOR
+**150** |  [Webinar Pro or Not: The $500 Access Control Bug](/days/day150.md) | Broken Access Control
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
