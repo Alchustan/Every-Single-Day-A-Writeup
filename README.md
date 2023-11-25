@@ -155,5 +155,7 @@ Day | Article | Category
 **149** |  [IDOR ON EVERYWHERE](/days/day149.md) | IDOR
 **150** |  [Webinar Pro or Not: The $500 Access Control Bug](/days/day150.md) | Broken Access Control
 **151** |  [My $1000 Bounty Bug: How I Stopped Companies from Losing Money with an IDOR Flaw](/days/day151.md) | IDOR
+**152** |  [Google VRP -[IDOR] Deleted Victim Data & Leaked](/days/day152.md) | IDOR
+
 
 Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
