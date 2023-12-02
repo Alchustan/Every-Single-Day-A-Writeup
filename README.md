@@ -1,5 +1,5 @@
 # Every Single Day A Write-up
-This repository contains bunch of write-ups that I read every single day. It won't be a challenge and I will keep this repo updated as long as possible. I'm open to write-up suggestions via Twitter DM: [Barış Yıldızoğlu](https://twitter.com/brssec) 🖤
+This repository contains bunch of write-ups that I read every single day. It won't be a challenge and I will keep this repo updated as long as possible. I'm open to write-up suggestions via Twitter DM: [Barış Yıldızoğlu](https://twitter.com/Alchustan) 🖤
 
 ___
 Day | Article | Category
@@ -159,4 +159,3 @@ Day | Article | Category
 **153** |  [Default Credentials, P1 with $$$$ Reward in a Bug Bounty Program](/days/day153.md) | Improper Authentication
 
 
-Note: I inspired by [Harsh Bothra](https://github.com/harsh-bothra/learn365)'s Learn365 repo when I decided to create this repository
