@@ -157,5 +157,6 @@ Day | Article | Category
 **151** |  [My $1000 Bounty Bug: How I Stopped Companies from Losing Money with an IDOR Flaw](/days/day151.md) | IDOR
 **152** |  [Google VRP -[IDOR] Deleted Victim Data & Leaked](/days/day152.md) | IDOR
 **153** |  [Default Credentials, P1 with $$$$ Reward in a Bug Bounty Program](/days/day153.md) | Improper Authentication
+**154** |  [Budget Change: IDOR 1000$ Bug](/days/day154.md) | IDOR
 
 
