@@ -158,5 +158,6 @@ Day | Article | Category
 **152** |  [Google VRP -[IDOR] Deleted Victim Data & Leaked](/days/day152.md) | IDOR
 **153** |  [Default Credentials, P1 with $$$$ Reward in a Bug Bounty Program](/days/day153.md) | Improper Authentication
 **154** |  [Budget Change: IDOR 1000$ Bug](/days/day154.md) | IDOR
+**155** |  [How can I obtain a $2k bounty solely based on curiosity?](/days/day155.md) | Broken Authentication 
 
 
