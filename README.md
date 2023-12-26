@@ -162,4 +162,5 @@ Day | Article | Category
 **156** |  [How I Found SQL Injection worth of $4,000 bounty](/days/day156.md) | SQL Injection
 **157** |  [How i found an Stored XSS on Google Books](/days/day157.md) | Cross-site Scripting
 **158** |  [A Big company Admin Panel takeover $4500](/days/day158.md) | Broken Access Control
+**159** |  [The Unexpected “0” Master ID for Account Data Manipulation](/days/day159.md) | Broken Access Control
 
