@@ -165,4 +165,5 @@ Day | Article | Category
 **159** |  [The Unexpected “0” Master ID for Account Data Manipulation](/days/day159.md) | Broken Access Control
 **160** |  [Weird Email Verification Bypass](/days/day160.md) | Logic Flaw
 **161** |  [Waybackurls leads to pwned Admin Panel](/days/day161.md) | Sensitive Data Exposure
+**162** |  [My first and simple ATO in a private program](/days/day162.md) | Broken Access Control
 
