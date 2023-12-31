@@ -166,4 +166,5 @@ Day | Article | Category
 **160** |  [Weird Email Verification Bypass](/days/day160.md) | Logic Flaw
 **161** |  [Waybackurls leads to pwned Admin Panel](/days/day161.md) | Sensitive Data Exposure
 **162** |  [My first and simple ATO in a private program](/days/day162.md) | Broken Access Control
+**163** |  [1200$ IDOR Flaw: Allow Attacker To Approve Project Time Tracking](/days/day163.md) | IDOR
 
