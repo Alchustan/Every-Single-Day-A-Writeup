@@ -167,4 +167,5 @@ Day | Article | Category
 **161** |  [Waybackurls leads to pwned Admin Panel](/days/day161.md) | Sensitive Data Exposure
 **162** |  [My first and simple ATO in a private program](/days/day162.md) | Broken Access Control
 **163** |  [1200$ IDOR Flaw: Allow Attacker To Approve Project Time Tracking](/days/day163.md) | IDOR
+**164** |  [Business Logic Errors Can Be Your First Bug](/days/day164.md) | Logic Flaw
 
