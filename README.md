@@ -168,4 +168,5 @@ Day | Article | Category
 **162** |  [My first and simple ATO in a private program](/days/day162.md) | Broken Access Control
 **163** |  [1200$ IDOR Flaw: Allow Attacker To Approve Project Time Tracking](/days/day163.md) | IDOR
 **164** |  [Business Logic Errors Can Be Your First Bug](/days/day164.md) | Logic Flaw
+**165** |  [Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure](/days/day165.md) | Information Disclosure
 
