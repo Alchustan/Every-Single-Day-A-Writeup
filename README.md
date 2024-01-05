@@ -169,4 +169,5 @@ Day | Article | Category
 **163** |  [1200$ IDOR Flaw: Allow Attacker To Approve Project Time Tracking](/days/day163.md) | IDOR
 **164** |  [Business Logic Errors Can Be Your First Bug](/days/day164.md) | Logic Flaw
 **165** |  [Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure](/days/day165.md) | Information Disclosure
+**166** |  [I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty](/days/day166.md) | IDOR
 
