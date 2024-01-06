@@ -170,4 +170,5 @@ Day | Article | Category
 **164** |  [Business Logic Errors Can Be Your First Bug](/days/day164.md) | Logic Flaw
 **165** |  [Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure](/days/day165.md) | Information Disclosure
 **166** |  [I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty](/days/day166.md) | IDOR
+**167** |  [Getting email address of any HackerOne user worth $7,500](/days/day167.md) | Information Disclosure
 
