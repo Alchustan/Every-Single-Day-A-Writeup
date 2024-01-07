@@ -104,7 +104,7 @@ Day | Article | Category
 **98** |  [$1,000+ P1: PII Disclosure W/ IDOR](/days/day98.md) | IDOR
 **99** |  [Weird Vulnerabilities Happening on Load Balancers, Shallow Copies and Caches](/days/day99.md) | Security Misconfiguration
 **100** |  [Duplicate on CSRF → Account Takeover](/days/day100.md) | CSRF
-**101** |  [Improper Access Control — My Third Finding on Hackerone!](/days/day101.md) | Improper Access Control
+**101** |  [Improper Access Control — My Third Finding on Hackerone!](/days/day101.md) | Broken Access Control
 **102** |  [Get Blind XSS within 5 Minutes — $100](/days/day102.md) | Cross-site Scripting
 **103** |  [Blind account takeover](/days/day103.md) | Account Takeover
 **104** |  [IDOR on Unsubscribe emails to $200 bounty.](/days/day104.md) | IDOR
@@ -124,7 +124,7 @@ Day | Article | Category
 **118** |  [IDOR and API-keys🔑Token Hardcode Exposed](/days/day118.md) | IDOR
 **119** |  [How I found my first RCE? A simple one…](/days/day119.md) | File Upload
 **120** |  [Directory Traversal Vulnerability in Huawei HG255s Products](/days/day120.md) | Directory Traversal
-**121** |  [$500 in 5 minutes](/days/day121.md) | Improper Access Control
+**121** |  [$500 in 5 minutes](/days/day121.md) | Broken Access Control
 **122** |  [RCE on admin panel of web3 website](/days/day122.md) | Remote Code Execution
 **123** |  [Doing it the researcher’s way: How I Managed to Get SSTI which lead to arbitrary file reading on One of the Leading Payment Systems in Asia](/days/day123.md) | SSTI
 **124** |  [My report on how the admin panel took over and I got X](/days/day124.md) | Cross-site Scripting
@@ -171,4 +171,5 @@ Day | Article | Category
 **165** |  [Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure](/days/day165.md) | Information Disclosure
 **166** |  [I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty](/days/day166.md) | IDOR
 **167** |  [Getting email address of any HackerOne user worth $7,500](/days/day167.md) | Information Disclosure
+**168** |  [My First Bug for 300$](/days/day168.md) | Broken Access Control
 
