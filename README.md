@@ -172,4 +172,5 @@ Day | Article | Category
 **166** |  [I received a Bank offer in my mailbox and discovered an IDOR vulnerability - $5,000 bounty](/days/day166.md) | IDOR
 **167** |  [Getting email address of any HackerOne user worth $7,500](/days/day167.md) | Information Disclosure
 **168** |  [My First Bug for 300$](/days/day168.md) | Broken Access Control
+**169** |  [SQL Injection Attack : On An AI Website | $$$ Bounty in just an hour.](/days/day169.md) | SQL Injection
 
