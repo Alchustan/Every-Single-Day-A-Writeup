@@ -173,4 +173,5 @@ Day | Article | Category
 **167** |  [Getting email address of any HackerOne user worth $7,500](/days/day167.md) | Information Disclosure
 **168** |  [My First Bug for 300$](/days/day168.md) | Broken Access Control
 **169** |  [SQL Injection Attack : On An AI Website $$$ Bounty in just an hour.](/days/day169.md) | SQL Injection
+**170** |  [Reverse Search IDOR approach to Exposure of all Organizational Sensitive Information](/days/day170.md) | IDOR
 
