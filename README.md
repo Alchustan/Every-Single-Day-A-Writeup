@@ -174,4 +174,5 @@ Day | Article | Category
 **168** |  [My First Bug for 300$](/days/day168.md) | Broken Access Control
 **169** |  [SQL Injection Attack : On An AI Website $$$ Bounty in just an hour.](/days/day169.md) | SQL Injection
 **170** |  [Reverse Search IDOR approach to Exposure of all Organizational Sensitive Information](/days/day170.md) | IDOR
+**171** |  [One Bug at a Time: I failed my quiz on purpose to get $1,000!](/days/day171.md) | IDOR
 
