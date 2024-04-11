@@ -176,4 +176,5 @@ Day | Article | Category
 **170** |  [Reverse Search IDOR approach to Exposure of all Organizational Sensitive Information](/days/day170.md) | IDOR
 **171** |  [One Bug at a Time: I failed my quiz on purpose to get $1,000!](/days/day171.md) | IDOR
 **172** |  [Account takeover of any user through password reset functionality](/days/day172.md) | Broken Authentication
+**173** |  [How Automation Detected Default Admin Credential Worth $500](/days/day173.md) | Broken Authentication
 
