@@ -177,4 +177,5 @@ Day | Article | Category
 **171** |  [One Bug at a Time: I failed my quiz on purpose to get $1,000!](/days/day171.md) | IDOR
 **172** |  [Account takeover of any user through password reset functionality](/days/day172.md) | Broken Authentication
 **173** |  [How Automation Detected Default Admin Credential Worth $500](/days/day173.md) | Broken Authentication
+**174** |  [IDOR Vulnerability that exposed 17 Million user data](/days/day174.md) | IDOR
 
