@@ -178,4 +178,5 @@ Day | Article | Category
 **172** |  [Account takeover of any user through password reset functionality](/days/day172.md) | Broken Authentication
 **173** |  [How Automation Detected Default Admin Credential Worth $500](/days/day173.md) | Broken Authentication
 **174** |  [IDOR Vulnerability that exposed 17 Million user data](/days/day174.md) | IDOR
+**175** |  [My first bugs in 2024](/days/day175.md) | Cross-site Scripting
 
