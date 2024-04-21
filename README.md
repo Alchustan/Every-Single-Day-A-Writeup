@@ -180,4 +180,5 @@ Day | Article | Category
 **174** |  [IDOR Vulnerability that exposed 17 Million user data](/days/day174.md) | IDOR
 **175** |  [My first bugs in 2024](/days/day175.md) | Cross-site Scripting
 **176** |  [1200 $ Email verification Bypass from P4 to P2](/days/day176.md) | Broken Access Control
+**177** |  [Unauthorized Admin Account Access via Google Authentication](/days/day177.md) | Improper Authentication
 
