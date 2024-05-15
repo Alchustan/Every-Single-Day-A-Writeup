@@ -182,4 +182,5 @@ Day | Article | Category
 **176** |  [1200 $ Email verification Bypass from P4 to P2](/days/day176.md) | Broken Access Control
 **177** |  [Unauthorized Admin Account Access via Google Authentication](/days/day177.md) | Improper Authentication
 **178** |  [Response Manipulation Lead To Premium Feature By Normal User Reward of $500](/days/day178.md) | Broken Access Control
+**179** |  [How We Hacked Voice Communication Solutions Company And Found BAC + Info Disclosure + IDOR](/days/day179.md) | Broken Access Control
 
