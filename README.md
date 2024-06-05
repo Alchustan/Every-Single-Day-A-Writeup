@@ -184,4 +184,5 @@ Day | Article | Category
 **178** |  [Response Manipulation Lead To Premium Feature By Normal User Reward of $500](/days/day178.md) | Broken Access Control
 **179** |  [How We Hacked Voice Communication Solutions Company And Found BAC + Info Disclosure + IDOR](/days/day179.md) | Broken Access Control
 **180** |  [Privilege Escalation to Admin through an Import Feature](/days/day180.md) | Broken Access Control
+**181** |  [How i Found Credentials from an Empty File](/days/day181.md) | Information Disclosure
 
