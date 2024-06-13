@@ -185,4 +185,5 @@ Day | Article | Category
 **179** |  [How We Hacked Voice Communication Solutions Company And Found BAC + Info Disclosure + IDOR](/days/day179.md) | Broken Access Control
 **180** |  [Privilege Escalation to Admin through an Import Feature](/days/day180.md) | Broken Access Control
 **181** |  [How i Found Credentials from an Empty File](/days/day181.md) | Information Disclosure
+**182** |  [How i Find Database Credentials via Mass Recon & Recon Scoping on Gcash](/days/day182.md) | Information Disclosure
 
