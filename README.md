@@ -187,4 +187,5 @@ Day | Article | Category
 **181** |  [How i Found Credentials from an Empty File](/days/day181.md) | Information Disclosure
 **182** |  [How i Find Database Credentials via Mass Recon & Recon Scoping on Gcash](/days/day182.md) | Information Disclosure
 **183** |  [How One Bug Scored Me Double Rewards!](/days/day183.md) | Information Disclosure
+**184** |  [How a Port scan got me Nokia Hall of Fame](/days/day184.md) | Information Disclosure
 
