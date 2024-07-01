@@ -188,4 +188,5 @@ Day | Article | Category
 **182** |  [How i Find Database Credentials via Mass Recon & Recon Scoping on Gcash](/days/day182.md) | Information Disclosure
 **183** |  [How One Bug Scored Me Double Rewards!](/days/day183.md) | Information Disclosure
 **184** |  [How a Port scan got me Nokia Hall of Fame](/days/day184.md) | Information Disclosure
+**185** |  [How I Secured Personal Information (PII) of 5.17M Electricity Consumers](/days/day185.md) | IDOR
 
