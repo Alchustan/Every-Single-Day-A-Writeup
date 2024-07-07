@@ -191,4 +191,5 @@ Day | Article | Category
 **185** |  [How I Secured Personal Information (PII) of 5.17M Electricity Consumers](/days/day185.md) | IDOR
 **186** |  [How i’ve found : ( IDOR + XSS ) = all USERS account takeover :) ?](/days/day186.md) | IDOR + Cross-site Scripting
 **187** |  [New 100$ Bug in My Methodology!](/days/day187.md) | Improper Input Validation
+**188** |  [Email Verification Bypass Worth $$$](/days/day188.md) | IDOR
 
