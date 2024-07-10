@@ -193,4 +193,5 @@ Day | Article | Category
 **187** |  [New 100$ Bug in My Methodology!](/days/day187.md) | Improper Input Validation
 **188** |  [Email Verification Bypass Worth $$$](/days/day188.md) | IDOR
 **189** |  [$1000: How I could have Hack any account and become a billionaire overnight](/days/day189.md) | Race Condition
+**190** |  [From Long-Term Hacking to Instant Rewards: Finding SQLi in 3 Minutes Worth $3125](/days/day190.md) | SQL Injection
 
