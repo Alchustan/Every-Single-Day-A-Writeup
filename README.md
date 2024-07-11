@@ -194,4 +194,5 @@ Day | Article | Category
 **188** |  [Email Verification Bypass Worth $$$](/days/day188.md) | IDOR
 **189** |  [$1000: How I could have Hack any account and become a billionaire overnight](/days/day189.md) | Race Condition
 **190** |  [From Long-Term Hacking to Instant Rewards: Finding SQLi in 3 Minutes Worth $3125](/days/day190.md) | SQL Injection
+**191** |  [Authentication Bypass due to Sensitive Data Exposure in Local Storage](/days/day191.md) | Broken Authentication
 
