@@ -195,4 +195,5 @@ Day | Article | Category
 **189** |  [$1000: How I could have Hack any account and become a billionaire overnight](/days/day189.md) | Race Condition
 **190** |  [From Long-Term Hacking to Instant Rewards: Finding SQLi in 3 Minutes Worth $3125](/days/day190.md) | SQL Injection
 **191** |  [Authentication Bypass due to Sensitive Data Exposure in Local Storage](/days/day191.md) | Broken Authentication
+**192** |  [My first P2 that Lead to Full PII Exposure](/days/day192.md) | IDOR
 
