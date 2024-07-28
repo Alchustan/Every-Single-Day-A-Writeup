@@ -198,4 +198,5 @@ Day | Article | Category
 **192** |  [My first P2 that Lead to Full PII Exposure](/days/day192.md) | IDOR
 **193** |  [How I found IDOR in NASA](/days/day193.md) | IDOR
 **194** |  [Reverse Search IDOR approach to Exposure of all Organizational Sensitive Information](/days/day194.md) | IDOR
+**195** |  [Story of a 1000$ Open Redirect](/days/day195.md) | Open Redirect
 
