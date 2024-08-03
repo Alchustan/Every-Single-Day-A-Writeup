@@ -200,4 +200,5 @@ Day | Article | Category
 **194** |  [Reverse Search IDOR approach to Exposure of all Organizational Sensitive Information](/days/day194.md) | IDOR
 **195** |  [Story of a 1000$ Open Redirect](/days/day195.md) | Open Redirect
 **196** |  [How I Got My First €€€€ Bounty](/days/day196.md) | SQL Injection
+**197** |  [Privilege Escalation: How I Earned $500 by Discovering the Ability to Delete Documents as a Student](/days/day197.md) | IDOR
 
