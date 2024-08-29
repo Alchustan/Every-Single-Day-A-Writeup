@@ -131,7 +131,7 @@ Day | Article | Category
 **125** |  [Interesting Privilege Escalation In an Old Private Program](/days/day125.md) | Broken Access Control
 **126** |  [How a Simple CSRF Attack Turned into a P1 Level Bug](/days/day126.md) | CSRF
 **127** |  [How I Could Compromise 4% (Locked) Instagram Accounts](/days/day127.md) | IDOR
-**128** |  [Bug Bounty Reflected XSS Exploitation Tips for beginners](/days/day128.md) | XSS
+**128** |  [Bug Bounty Reflected XSS Exploitation Tips for beginners](/days/day128.md) | Cross-site Scripting
 **129** |  [How I Pwned 10 Admin Panels and got rewarded 8000$+](/days/day129.md) | Information Disclosure
 **130** |  [My First Bug Bounty Reward : $100 in 5 min](/days/day130.md) | Information Disclosure
 **131** |  [The easiest way I used to bypass an admin panel](/days/day131.md) | Broken Access Control
@@ -201,4 +201,5 @@ Day | Article | Category
 **195** |  [Story of a 1000$ Open Redirect](/days/day195.md) | Open Redirect
 **196** |  [How I Got My First €€€€ Bounty](/days/day196.md) | SQL Injection
 **197** |  [Privilege Escalation: How I Earned $500 by Discovering the Ability to Delete Documents as a Student](/days/day197.md) | IDOR
+**198** |  [How Did I Easily Find Stored XSS at Apple And Earn $5000 ?](/days/day198.md) | Cross-site Scripting
 
