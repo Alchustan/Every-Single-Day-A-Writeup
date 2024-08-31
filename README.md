@@ -197,7 +197,7 @@ Day | Article | Category
 **191** |  [Authentication Bypass due to Sensitive Data Exposure in Local Storage](/days/day191.md) | Broken Authentication
 **192** |  [My first P2 that Lead to Full PII Exposure](/days/day192.md) | IDOR
 **193** |  [How I found IDOR in NASA](/days/day193.md) | IDOR
-**194** |  [Reverse Search IDOR approach to Exposure of all Organizational Sensitive Information](/days/day194.md) | IDOR
+**194** |  [How I Earned My Place Among Ferrari’s Elite-16 in the Hall of Fame](/days/day194.md) | Sensitive Information Disclosure
 **195** |  [Story of a 1000$ Open Redirect](/days/day195.md) | Open Redirect
 **196** |  [How I Got My First €€€€ Bounty](/days/day196.md) | SQL Injection
 **197** |  [Privilege Escalation: How I Earned $500 by Discovering the Ability to Delete Documents as a Student](/days/day197.md) | IDOR
