@@ -202,4 +202,5 @@ Day | Article | Category
 **196** |  [How I Got My First €€€€ Bounty](/days/day196.md) | SQL Injection
 **197** |  [Privilege Escalation: How I Earned $500 by Discovering the Ability to Delete Documents as a Student](/days/day197.md) | IDOR
 **198** |  [How Did I Easily Find Stored XSS at Apple And Earn $5000 ?](/days/day198.md) | Cross-site Scripting
+**199** |  [API Information Disclosure Leading to Admin Account Takeover](/days/day199.md) | Information Disclosure
 
