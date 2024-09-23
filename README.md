@@ -204,4 +204,5 @@ Day | Article | Category
 **198** |  [How Did I Easily Find Stored XSS at Apple And Earn $5000 ?](/days/day198.md) | Cross-site Scripting
 **199** |  [API Information Disclosure Leading to Admin Account Takeover](/days/day199.md) | Information Disclosure
 **200** |  [Simple Bugs — Buying Everything for Free](/days/day200.md) | Business Logic Errors
+**201** |  [PII at Your Fingertips: How I Stumbled Upon an Easy-to-Find Data Leakage Vulnerability](/days/day201.md) | Information Disclosure
 
