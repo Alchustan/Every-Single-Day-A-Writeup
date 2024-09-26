@@ -205,4 +205,5 @@ Day | Article | Category
 **199** |  [API Information Disclosure Leading to Admin Account Takeover](/days/day199.md) | Information Disclosure
 **200** |  [Simple Bugs — Buying Everything for Free](/days/day200.md) | Business Logic Errors
 **201** |  [PII at Your Fingertips: How I Stumbled Upon an Easy-to-Find Data Leakage Vulnerability](/days/day201.md) | Information Disclosure
+**202** |  [Bypass WAF by a simple trick gained $1000 bounty](/days/day202.md) | Business Logic Errors
 
