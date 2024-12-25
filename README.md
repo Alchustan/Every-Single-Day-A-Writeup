@@ -207,4 +207,5 @@ Day | Article | Category
 **201** |  [PII at Your Fingertips: How I Stumbled Upon an Easy-to-Find Data Leakage Vulnerability](/days/day201.md) | Information Disclosure
 **202** |  [Bypass WAF by a simple trick gained $1000 bounty](/days/day202.md) | Business Logic Errors
 **203** |  [API based IDOR to leaking Private IP address of 6000 businesses](/days/day203.md) | IDOR
+**204** |  [How I Found a Critical Vulnerability and Earned $4,000 in Bug Bounty Hunting](/days/day204.md) | IDOR
 
