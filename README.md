@@ -1,5 +1,5 @@
 # Every Single Day A Write-up
-This repository contains bunch of write-ups that I read every single day. It won't be a challenge and I will keep this repo updated as long as possible. I'm open to write-up suggestions via Twitter DM: [Barış Yıldızoğlu](https://twitter.com/Alchustan) 🖤
+This repository contains bunch of write-ups that I read every single day. It won't be a challenge and I will keep this repo updated as long as possible. You can reach me via Twitter: [Barış Yıldızoğlu](https://twitter.com/Alchustan)
 
 ___
 Day | Article | Category
