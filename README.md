@@ -212,4 +212,5 @@ Day | Article | Category
 **206** |  [How I accidentally found an IDOR bug in Google slides and rewarded $3,133.70](/days/day206.md) | IDOR
 **207** |  [How I Find IDOR lead to Account Takeover](/days/day207.md) | IDOR
 **208** |  [The $2,200 ATO Most Bug Hunters Overlooked by Closing Intruder Too Soon](/days/day208.md) | Broken Authentication
+**209** |  [Bypassing Email Verification](/days/day209.md) | Broken Authentication
 
